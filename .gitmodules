@@ -1,0 +1,4 @@
+[submodule "soromox"]
+	path = soromox
+	url = git@github.com:tud-phi/soromox.git
+	branch = feature/model-based-controllers
